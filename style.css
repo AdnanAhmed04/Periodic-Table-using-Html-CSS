@@ -1,0 +1,38 @@
+* {
+    font-size: 2.5vw;
+    font-family: cursive;
+}
+
+/* .boder {
+    border: 10px solid black;
+    width: 100%;
+} */
+
+table {
+    margin-left: 2.5%;
+    margin-right: 4.5%;
+    /* margin-bottom: 120px; */
+
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 4vw;
+    color: rgb(0, 0, 0);
+
+}
+
+sup {
+    font-size: 15px;
+    color: red;
+
+}
+
+.element-boder {
+    border: 2px solid black;
+}
+
+.gape {
+    margin-top: 20px;
+}
